@@ -9,6 +9,6 @@ ClassPlus is a feature-rich platform designed for teachers and students, offerin
   <li>Assignment Submission: Students can upload assignments directly through the platform, ensuring a smooth submission process.</li>
   <li>Course Enrollment: Students can explore available courses and enroll easily with seamless payment options.</li>
   <li>Razorpay Integration: Secure and efficient payment processing for course enrollments and other fees.</li>
-  <li>Notification System: Stay updated with reminders for announcements</li
+  <li>Notification System: Stay updated with notification whenever a new assignment is created</li
 <li>Multi-Device Compatibility: Access the platform seamlessly across mobile, tablet, and desktop devices.</li>
 </ul>

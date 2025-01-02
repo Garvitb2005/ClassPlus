@@ -1,5 +1,3 @@
-# ClassPlus
-
 ClassPlus is a feature-rich platform designed for teachers and students, offering a variety of advanced features, including:
 
 <ul>
